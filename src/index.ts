@@ -3,7 +3,6 @@ VM.observe(document.body, () => {
     const modalTitle = document.querySelector('.modal-title');
 
     if (modalTitle.textContent === "Expired") {
-        console.log("Observed!!!")
         // Remove modal
         const modal = document.querySelector(".modal")
         modal.remove()
