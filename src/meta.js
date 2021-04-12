@@ -2,7 +2,7 @@
 // @name        Anonymous NextDNS
 // @namespace   Violentmonkey Scripts
 // @description Remove NextDNS anonymous account expiration modal popup without registration
-// @match       *://my.nextdns.io/*/setup
+// @match       *://my.nextdns.io/*
 // @grant       GM_addStyle
 // @version     process.env.VERSION
 // @author      process.env.AUTHOR
